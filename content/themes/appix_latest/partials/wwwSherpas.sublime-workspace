@@ -1,0 +1,975 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sh",
+				"sherpaPrepaFee"
+			],
+			[
+				"su",
+				"subscriptionsArray"
+			],
+			[
+				"cus",
+				"customer"
+			],
+			[
+				"stri",
+				"stripeCustomerId"
+			],
+			[
+				"clos",
+				"closeCursor"
+			],
+			[
+				"pdo",
+				"pdoStmt"
+			],
+			[
+				"subsc",
+				"subscriptionArray"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"s",
+				"sourceId"
+			],
+			[
+				"create",
+				"createCustomerToConnected"
+			],
+			[
+				"cryp",
+				"cryptPwd"
+			],
+			[
+				"conne",
+				"connectedCustomer"
+			],
+			[
+				"subs",
+				"subscription"
+			],
+			[
+				"strip",
+				"stripeError"
+			],
+			[
+				"meta",
+				"oldSubsMeta"
+			],
+			[
+				"customerS",
+				"customerStripeId"
+			],
+			[
+				"old",
+				"oldConnectedAccountId"
+			],
+			[
+				"sub",
+				"subscriptionArray"
+			],
+			[
+				"stripe",
+				"stripeCustomerID"
+			],
+			[
+				"custom",
+				"customerStripeId"
+			],
+			[
+				"stud",
+				"studFname"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"conn",
+				"connectedAcctSubs"
+			],
+			[
+				"cancel",
+				"cancelAtEnd"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"sus",
+				"subsId"
+			],
+			[
+				"err",
+				"error_info"
+			],
+			[
+				"time",
+				"timeToComeBack"
+			],
+			[
+				"c",
+				"connectedToken"
+			],
+			[
+				"ba",
+				"bankAccount"
+			],
+			[
+				"ban",
+				"bank"
+			],
+			[
+				"iban",
+				"ibanName"
+			],
+			[
+				"for",
+				"formPart3"
+			],
+			[
+				"form",
+				"formPart2"
+			],
+			[
+				"par",
+				"formPart1"
+			],
+			[
+				"lon",
+				"longMarginWidth"
+			],
+			[
+				"mar",
+				"marginWidth"
+			],
+			[
+				"in",
+				"inputWidth"
+			],
+			[
+				"conten",
+				"contentMargin"
+			],
+			[
+				"marg",
+				"marginWidth"
+			],
+			[
+				"cont",
+				"contentWidth"
+			],
+			[
+				"con",
+				"contentWidth"
+			],
+			[
+				"co",
+				"contentWidth"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"st",
+				"stid"
+			],
+			[
+				"id",
+				"idVerifToStripe"
+			],
+			[
+				"ad",
+				"addr_postal_code"
+			],
+			[
+				"str",
+				"stripeResultHandler"
+			],
+			[
+				"fil",
+				"fileUp"
+			],
+			[
+				"idV",
+				"idVerifUpl"
+			],
+			[
+				"idVerif",
+				"idVerifForm"
+			],
+			[
+				"idVe",
+				"idVerifForm"
+			],
+			[
+				"le",
+				"legal_entity"
+			],
+			[
+				"ele",
+				"eleve"
+			],
+			[
+				"sher",
+				"sherpaValues"
+			],
+			[
+				"el",
+				"eleve"
+			],
+			[
+				"she",
+				"sherpaChatfuelID"
+			],
+			[
+				"disp",
+				"dispo1"
+			],
+			[
+				"next",
+				"nextEleveID"
+			],
+			[
+				"pr",
+				"profilmbti"
+			],
+			[
+				"m",
+				"MBTIMatch"
+			],
+			[
+				"mati",
+				"matieresJSON"
+			],
+			[
+				"mail",
+				"mailToCheck"
+			],
+			[
+				"reti",
+				"retrieveAllFiles"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"cr",
+				"credentialsPath"
+			],
+			[
+				"path",
+				"pathToGgSheetLib"
+			],
+			[
+				"pat",
+				"pathToGgSheetLib"
+			],
+			[
+				"chan",
+				"changeConnectedAccount"
+			],
+			[
+				"pare",
+				"parentNthNode"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pa",
+				"parentNode"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ret",
+				"retrievedCustomer"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"bind",
+				"bindValue"
+			],
+			[
+				"test",
+				"testou"
+			],
+			[
+				"pla",
+				"plans"
+			],
+			[
+				"C",
+				"Customer"
+			],
+			[
+				"se",
+				"selectSherpaMail"
+			],
+			[
+				"sele",
+				"selectPlan"
+			],
+			[
+				"pd",
+				"pdoMysql"
+			],
+			[
+				"disc",
+				"discount_amount"
+			],
+			[
+				"discount",
+				"discount_percent"
+			],
+			[
+				"si",
+				"site_wide"
+			],
+			[
+				"num",
+				"number_available"
+			],
+			[
+				"fore",
+				"forever"
+			],
+			[
+				"stro",
+				"stripeResponseHandler"
+			],
+			[
+				"debug",
+				"debugMail"
+			],
+			[
+				"event",
+				"eventObj"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"plan",
+				"planId"
+			],
+			[
+				"token",
+				"token"
+			],
+			[
+				"reu",
+				"return_data"
+			],
+			[
+				"retrun",
+				"return_data"
+			],
+			[
+				"reques",
+				"request_missing_data"
+			],
+			[
+				"custo",
+				"customer_record"
+			],
+			[
+				"strop",
+				"stripeFormHandler"
+			],
+			[
+				"strope",
+				"stripe-token-id"
+			],
+			[
+				"array_key",
+				"array_keys"
+			],
+			[
+				"chec",
+				"checkout-fail-message"
+			],
+			[
+				"che",
+				"checkout-processing-message"
+			],
+			[
+				"checkout",
+				"checkout"
+			],
+			[
+				"newS",
+				"newSubscriberAdd"
+			],
+			[
+				"email",
+				"email-address"
+			],
+			[
+				"pass",
+				"password-confirm"
+			],
+			[
+				"cust_",
+				"cust_fname"
+			],
+			[
+				"cust",
+				"cust_hash"
+			],
+			[
+				"emai",
+				"email-address"
+			],
+			[
+				"erro",
+				"error_log"
+			],
+			[
+				"last",
+				"last_insert_id"
+			],
+			[
+				"fname",
+				"fname"
+			],
+			[
+				"extensio",
+				"extension_loaded"
+			],
+			[
+				"db",
+				"db_pdo"
+			],
+			[
+				"t",
+				"typeof"
+			],
+			[
+				"succe",
+				"successHandler"
+			],
+			[
+				"data",
+				"dataSend"
+			],
+			[
+				"http",
+				"http_subscription_plans"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Searching 1188 files for \"bon suivis\" (regex)\n\n/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/db/seeds.rb:\n   67    name: \"Clara D.\",\n   68    school: \"En première année de ECS à Lille\",\n   69:   description: \"Un bon suivis méthodologie qui pose les bases que l'on ne nous enseigne pas toujours en prepa !\"\n   70    )\n   71  StudentReview.create(\n\n/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/log/development.log:\n    <binary>\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 483,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/app/assets/stylesheets/components/_navbar_gnal.scss",
+			"settings":
+			{
+				"buffer_size": 2647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/app/assets/stylesheets/components/_navbar_home.scss",
+			"settings":
+			{
+				"buffer_size": 2999,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ever",
+		"selected_items":
+		[
+			[
+				"ever",
+				"Evernote: Clip to Evernote as new note"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"colo",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"Package Control: InstallPackage",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final",
+		"/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/app",
+		"/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/app/assets",
+		"/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/app/assets/stylesheets",
+		"/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/app/assets/stylesheets/components"
+	],
+	"file_history":
+	[
+		"/Users/schmurz/Documents/Daive/Labo/lessherpas/app/views/pages/trucs.html.erb",
+		"/Users/schmurz/Documents/Daive/Labo/lessherpas/app/views/pages/formule.html.erb",
+		"/Users/schmurz/Documents/Daive/Labo/lessherpas/app/views/pages/manifeste.html.erb",
+		"/Users/schmurz/Documents/Daive/Labo/lessherpas/app/views/pages/nouvelledonne.html.erb",
+		"/Users/schmurz/Documents/Daive/Labo/lessherpas/app/views/pages/mentions.html.erb",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/invitationsSlackAprèsTF/inviteSlackPrepaHEC.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/jSchmurz_xhrClasses.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/hook.createOurPlans.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.stripeFunctions.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.newSubscription.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.subscriptions.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.idVerifToStripe.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.createCustomerToConnected.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.connectFirstLegalDatas.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.changeSubscriptionStatus.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.changeSepaSubscriptionStatus.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.addSepaToConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/hook.createConnectAccount.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/untitled",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/test.jsonTest.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.createSepaCustomerToConnected.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.createSepaCustomerToConnected.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.createSepaToken.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.connectForm.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.createSepaCustomerToConnected.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.connectFirstLegalDatas.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.db.functions.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.db.common.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.stripeCommon.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.debug.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.db.stripeUpdates.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.singleAjaxUpload.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.stripeSherpaFunctions.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.createCustomerToConnected.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/test.bankAccountPayment.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/test.bankAccountPayment.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/test.xhr.createCustomerWithIban.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/hook.singleAjaxUpload.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.createCustomerToConnected.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.changeConnectedAccountForSubscription.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/xhr.createCustomerAndConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/iui.customersDashboard.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.landingConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/iui.createCustomerAndConnectLink.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/inc.httpCacheCleaner.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/test.subscriptionsRetrieval.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.createCustomerAndConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.createCustomerAndConnect.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.connectForm.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/test.jasonEx.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/jSchmurz_objectsAndElements.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces.les-sherpas.co/repo_stripe/eui.idVerifUplForm.php",
+		"/Users/schmurz/Documents/Daive/Limbo/sublimeProjets/stripeSherpas.sublime-project",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/hook.createConnectAccount.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/hook.singleAjaxUpload.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/xhr.connectFirstLegalDatas.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.createSepaToken.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/xhr.idVerifToStripe.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.connectForm.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.connectFirstLegalDatas.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.idVerifUplForm.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.connectForm.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/jSchmurz_xhrClasses.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.connectFirstLegalDatas.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.createCustomerAndConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/hook.AddSepaConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.createCustomerAndConnect.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/hook.confirmLegalAgreement.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/eui.createSepaToken.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/xhr.addSepaToConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/hook.sendIdVerif.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/inc.stripeCommon.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/repo_stripe/hook.ownerAccountNotifications.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/stripeBack/newStripe/hook.createConnectAccount.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/stripeBack/newStripe/eui.connectGetInfos.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/interfaces/stripeBack/oldStripe/hook.createConnectAccount.php",
+		"/private/var/folders/3q/slvh59sx3dz0v921pn1qx2y80000gn/T/fz3temp-2/test.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/testService.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/hook.confirmTrial.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/hook.fetchEleveInfos.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/hook.checkIfNoSherpa.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/hook.checkMail.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/hook.finishMatching.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/hook.testGoChatfuel.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/test.curlChatfuel.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/vendor/asimlqt/php-google-spreadsheet-client/src/Google/Spreadsheet/DefaultServiceRequest.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/testAPI.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/service-account.json",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/test.php",
+		"/private/var/folders/3q/slvh59sx3dz0v921pn1qx2y80000gn/T/fz3temp-2/client_secret 2.json",
+		"/private/var/folders/3q/slvh59sx3dz0v921pn1qx2y80000gn/T/fz3temp-2/testAPI.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apisHooks/backendAPIGoogleSheets/client_secret.json",
+		"/private/var/folders/3q/slvh59sx3dz0v921pn1qx2y80000gn/T/fz3temp-2/CurlFactory.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIGoogleSheets/google-api-php-client-2.1.3/README.md",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/inc.stripeCommon.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendChatfuel/testChatfuel.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/twilio/twilioTest.php",
+		"/Users/schmurz/Documents/Daive/Labo/libs/jSchmurz.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/twilio/untitled.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/gas.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/hook.deleteSubscriptionSQL.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/iui.customersDashboard.js",
+		"/Users/schmurz/Desktop/test.html",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/jSchmurz_objectsAndElements.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/test.phpClassesPrivatePublicProtected.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/xhr.createCustomerAndConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/eui.createCustomerAndConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/eui.createCustomerAndConnect.js",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/xhr.changeConnectedAccountForSubscription.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/inc.subscriptions.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/iui.createCustomerAndConnectLink.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/iui.customersDashboard.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/inc.db.common.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/FUNC_connect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/test.subscriptionsRetrieval.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/hook.createConnectAccount.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/test.dbConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/inc.db.common_v2.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/objTests.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/test.php",
+		"/Users/schmurz/Desktop/blank2.html",
+		"/Users/schmurz/Desktop/blank.html",
+		"/Users/schmurz/Documents/Daive/Labo/tutos/stripeTutoUdemy/TESTsstripeConnect/connectTests/TEST_landingConnect.php",
+		"/Users/schmurz/Documents/Daive/Labo/tutos/stripeTutoUdemy/TESTsstripeConnect/07_login_logout/practice/debug_session_set_content_level_pro.php",
+		"/Users/schmurz/Documents/Daive/Labo/tutos/stripeTutoUdemy/TESTsstripeConnect/07_login_logout/practice/db_customer_add.inc.php",
+		"/Users/schmurz/Documents/Daive/Labo/tutos/stripeTutoUdemy/TESTsstripeConnect/07_login_logout/practice/debug_db_customer_add.php",
+		"/Users/schmurz/Documents/Daive/Labo/WPWebsites/www.les-sherpas.co/apis&Hooks/backendAPIStripe/eui.createCustomerAndConnect_v2.js",
+		"/Users/schmurz/Documents/Daive/Labo/tutos/stripeTutoUdemy/TESTsstripeConnect/07_login_logout/practice/db_customer_get.inc.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bon suivis"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										227,
+										236
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/app/assets/stylesheets/components/_navbar_gnal.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 256.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/schmurz/Documents/Daive/Labo/sherpas/lessherpas_final/app/assets/stylesheets/components/_navbar_home.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wwwSherpas.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

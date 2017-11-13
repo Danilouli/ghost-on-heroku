@@ -1,0 +1,22 @@
+<!-- Start Slider Area -->
+<div class="slider-area">
+    {{#get "posts" filter="featured:true" limit="1" as |featured|}}
+    <div class="container-fluid">
+        <div class="row">
+            <div class="slider-wrapper-2">
+                {{#foreach featured}}
+                <div id="particles-js" style="background-image: url({{img_url feature_image}})">
+                    <div class="slider-fixed-text">
+                        <h1>{{title}}</h1>
+                        <a href="{{url}}" class="flying-text">Lire l'article</a>
+                    </div>
+                </div>
+                {{/foreach}}
+            </div>
+        </div>
+    </div>
+    {{/get}}
+</div>
+<!--End Slider Area -->
+
+                 
