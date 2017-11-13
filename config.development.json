@@ -11,7 +11,14 @@
     }
   },
   "mail": {
-    "transport": "Direct"
+    "transport": "SMTP",
+    "options": {
+        "service": "Mailgun",
+        "auth": {
+            "user": "postmaster@blog.les-sherpas.co",
+            "pass": "54efe57d1da40ebd292168092741b2ae"
+        }
+    }
   },
   "logging": {
     "transports": [
