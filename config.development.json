@@ -11,6 +11,7 @@
     }
   },
   "mail": {
+<<<<<<< HEAD
     "transport": "SMTP",
     "options": {
         "service": "Mailgun",
@@ -19,6 +20,9 @@
             "pass": "54efe57d1da40ebd292168092741b2ae"
         }
     }
+=======
+    "transport": "Direct"
+>>>>>>> acf0cab287a95bf16278102d80e4f5d7bf4de401
   },
   "logging": {
     "transports": [
