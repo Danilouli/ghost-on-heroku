@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------------------------------------------
-    
+
     Template name: Appix Ghost Template
     Author: designingmarket
     Template URI: https://themeforest.net/item/appix-responsive-ghost-blog-theme/20289667
@@ -62,10 +62,10 @@ img {
     max-width: 100%;
 }
 p {
-    color: #34495E;
+    color: var(--vulcan);
 }
 /*=========================
-Typography	
+Typography
 ===========================*/
 
 h1,
@@ -471,7 +471,7 @@ canvas {
 #partical-js {
     height: 650px;
 }
-  
+
 .page-title-wrapper h1 {
     font-size: 33px;
     text-align: left;
@@ -699,7 +699,7 @@ h3.blog-post-title {
 }
 .blog-iframe.blog-image:after{
 	content: " "!Important;
-	
+
 }
 .single-blog-item .blog-details {
     padding-top: 0;
@@ -741,7 +741,7 @@ ul.blog-author-name li i {
     color:#a5a5a5;
 }
 .blog-details p {
-    color: #3a4e63;
+    color: var(--vulcan);
     font-size: 16px;
     line-height: 30px;
 }
@@ -769,7 +769,7 @@ ul.blog-author-name li i {
     font-size: 16px;
     text-transform: uppercase;
     margin-right: 20px;
-    color: #3a4e63;
+    color: var(--vulcan);
 }
 ul.social-icon {
     display: inline-block;
@@ -819,9 +819,9 @@ ul.social-icon {
     float: left;
     width: 60%;
 }
- 
- 
- 
+
+
+
 .tag-clouds a {
     border: 1px solid #f86a90;
     color: #f86a90;
@@ -905,7 +905,7 @@ h5.author-title {
 .next-blog-post i {
     color: var(--persianGreen);
 }
- 
+
 nav.pagination {
     display: block;
     text-align: center;
@@ -964,7 +964,7 @@ div#disqus_thread {
     line-height: 24px;
     font-size: 20px;
     color: #fff;
- 
+
 }
  .themeix-social-area a.themeix-tool {
     float: left;
@@ -985,13 +985,13 @@ div#disqus_thread {
     font-weight: 600;
     text-align: center;
     padding: 90px 0;
- 
+
 }
 .themeix-color {
     background-color: #F86A90;
 }
- 
- 
+
+
 .column p {
     margin-bottom: 22px;
 }
@@ -1042,7 +1042,7 @@ div#disqus_thread {
     background-position: center;
     background-repeat: no-repeat;
 }
- 
+
 .blog-details .fluid-width-video-wrapper {
     width: 100%;
     position: relative;
@@ -1767,7 +1767,7 @@ ul.author-link li a {
         color: #000 !important;
         /* Black prints faster:
                                    http://www.sanbeiji.com/archives/953 */
-        
+
         box-shadow: none !important;
         text-shadow: none !important;
     }
@@ -1785,7 +1785,7 @@ ul.author-link li a {
      * Don't show links that are fragment identifiers,
      * or use the `javascript:` pseudo protocol
      */
-    
+
     a[href^="#"]:after,
     a[href^="javascript:"]:after {
         content: "";
@@ -1799,7 +1799,7 @@ ul.author-link li a {
      * Printing Tables:
      * http://css-discuss.incutio.com/wiki/Printing_Tables
      */
-    
+
     thead {
         display: table-header-group;
     }
@@ -1856,9 +1856,9 @@ ul.author-link li a {
 	  color: #34495e;
 }
 
-  
-	
-	
+
+
+
 .newsletter input, .subscribe-email {
     background: #ffffff none repeat scroll 0 0;
     border: 1px solid #3A4E63 !important;
@@ -1889,7 +1889,7 @@ ul.author-link li a {
 .twitter-feed {
     margin-top: 60px;
 }
- 
+
 .single-address h3 {
     color: #34495e;
 }
@@ -1927,7 +1927,7 @@ ul.author-link li a {
     display:none;
 }
 
- 
+
 .video-url .fluid-width-video-wrapper {
     display:inline-block;
 }
@@ -1939,4 +1939,3 @@ ul.author-link li a {
 .tag-video_post .details-img {
     display:none;
 }
-
